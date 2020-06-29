@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Home Automation and Security</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Home Automation and Security</string>
+    <string name="nav_header_subtitle">2016005@iiitdmj.ac.in</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">About Us</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+</resources>
